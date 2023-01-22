@@ -11,9 +11,9 @@ Software quality assurance (SQA), software quality metrics, software configurati
 - Model-based testing
 - Structure based testing
 - Automated unit testing and test driven development
-Refactoring and Regression testing
-Integration testing
-Testing object oriented applications
+- Refactoring and Regression testing
+-Integration testing
+-Testing object oriented applications
 Introduction to system testing
 Introduction to testing distributed/web applications
 Introduction to testing service oriented applications
